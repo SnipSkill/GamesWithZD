@@ -1,6 +1,0 @@
-CMD Commands:
-
-dir - shows all the files that are in the current directory
-cls - clears the screen
-cd - chagnes the directory. Example: cd Desktop / cd ..
-md - makes a new directory at the place your are in. Example: md new_dir
